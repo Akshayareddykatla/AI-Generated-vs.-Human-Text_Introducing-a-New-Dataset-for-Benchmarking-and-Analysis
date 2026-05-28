@@ -126,16 +126,7 @@ The dataset is used for training and benchmarking AI text detection models.
 - Support Vector Machine (SVM)
 - LSTM / Neural Networks
 
----
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Dataset Overview
-- Data Visualization
-- Model Accuracy Graphs
-- Prediction Results
 
 ---
 
